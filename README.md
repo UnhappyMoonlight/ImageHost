@@ -1,0 +1,2 @@
+# ImageHost
+For hexo blog
